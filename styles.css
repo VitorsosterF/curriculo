@@ -1,0 +1,31 @@
+.cabecalho {
+    width: 100%;
+    background-color: lightblue;
+    border-radius: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    
+}
+
+html {
+    background-color: rgb(44, 44, 44);
+}
+
+.main {
+    color: lightblue;
+    margin-left: 10px;
+    max-width: 400px;
+}
+
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.imagem {
+    width: 300px;
+    height: 405px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 50px;
+}
